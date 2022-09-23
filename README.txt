@@ -1,0 +1,1 @@
+This is an interval class and an interval test class. It has several methods such as add, subtract, multiply, and average.The Test Interval class tests each method. 
